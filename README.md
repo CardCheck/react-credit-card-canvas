@@ -2,6 +2,8 @@
 
 > A modern, responsive React & Tailwind CSS component for rendering credit cards, bank badges, perk tags, and fee breakdowns.
 
+![Card UI Preview](preview.png)
+
 Designed for FinTech apps, payment checkouts, and wallet tools. Powered by **[CardCheck.in](https://cardcheck.in/?utm_source=github&utm_medium=referral&utm_campaign=open_source_repo)**.
 
 ---
