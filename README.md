@@ -8,10 +8,10 @@ Designed for FinTech apps, payment checkouts, and wallet tools. Powered by **[Ca
 
 ## Features
 
-- 💳 **Realistic Credit Card Art Display:** Renders card visuals with realistic drop-shadows and hover zoom animations.
-- 🏷️ **Smart Perk Badges:** Automatic visual tags for Fuel Waivers, Lounge Access, High Rewards, and Forex Markups.
-- 🇮🇳 **Indian Rupee (`₹`) Formatting:** Native support for Indian financial data, joining fees, annual fees, and APR rates.
-- ⚡ **Tailwind CSS & Framer Motion Ready:** Smooth entrance animations and fully customizable responsive layouts.
+- **Realistic Credit Card Art Display:** Renders card visuals with realistic drop-shadows and hover zoom animations.
+- **Smart Perk Badges:** Automatic visual tags for Fuel Waivers, Lounge Access, High Rewards, and Forex Markups.
+- **Indian Rupee (INR) Formatting:** Native support for Indian financial data, joining fees, annual fees, and APR rates.
+- **Tailwind CSS & Framer Motion Ready:** Smooth entrance animations and fully customizable responsive layouts.
 
 ---
 
